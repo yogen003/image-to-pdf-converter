@@ -1,11 +1,11 @@
-# 🖼️ Image to PDF Converter (Python)
+# Image to PDF Converter (Python)
 
 A simple Python script that automatically converts all JPG/JPEG images in a folder into individual PDF files.  
 No more converting images one by one — this script processes them all in one go!
 
 ---
 
-## 📌 Features
+# Features
 - ✅ Batch converts all JPG/JPEG images in a source folder into PDFs.
 - ✅ Automatically handles image mode conversion (RGBA/P to RGB).
 - ✅ Saves converted PDFs to a destination folder.
@@ -13,7 +13,7 @@ No more converting images one by one — this script processes them all in one g
 
 ---
 
-## 🛠️ Requirements
+# Requirements
 - Python 3.x
 - [Pillow (PIL)](https://pypi.org/project/Pillow/)
 
@@ -44,7 +44,7 @@ Source folder path → where your JPG/JPEG files are stored.
 
 Destination folder path → where PDFs will be saved.
 
-📂 Example
+ Example
 
 Input Folder:
 
